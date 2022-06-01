@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hook Landing Page Theme
 
-<!--
-**mhafizpp/mhafizpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This landing page theme is built on [shorthand css framework](https://github.com/shorthandcss/shorthand)
 
-Here are some ideas to get you started:
+![preview](/preview.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Credit
+
+* Picture [unsplash](https://unsplash.com)
+* Icons [feathericons](https://feathericons.com)
+
+## LICENSE
+
+The theme is available under the MIT License.
